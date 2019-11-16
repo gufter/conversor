@@ -1,4 +1,5 @@
 # conversor
+Um aplicação com Vue.js para conversão de moedas, que utiliza a api do free.currconv.com
 
 ## Project setup
 ```
